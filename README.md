@@ -1,4 +1,4 @@
-#libappir
+# libappdir
 
 This code has not even been thought that hard about yet.
 
